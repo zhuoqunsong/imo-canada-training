@@ -1,0 +1,1 @@
+If the first and second factor of 2 were placed into a and b, respectively, one would get the same solution as if they were placed into b and a, respectively. Thus, some cases are counted multiple times. (The commentary can also be written in .tex and compiled to .pdf)
